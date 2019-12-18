@@ -1,0 +1,40 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'Cheeseusaceu';
+    src: local('cheeseusaceu'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+	font-family: 'Cheeseusaceu';
+	font-size: 20px;
+	text-shadow: 0 0 6px #ff496c;
+	color: #F1E6FF;
+	background-image: url(fon.gif);
+}
+
+h1 {font-size: 32px}
+h2 {font-size: 24px}
+
+#article {
+	max-width: 780px;
+	margin: 0 auto; 
+	padding: 18px;
+	text-align: justify
+}
+#aheader {
+	color: #F1E6FF; 
+	text-decoration: none
+}
+#addinf {
+	font-size: 17px
+}
+#price {
+	font-size: 125%
+}
+#copyright {
+	color: #543964; 
+	font-size: 11px; 
+	text-shadow: 0 0 0 !important
+}
