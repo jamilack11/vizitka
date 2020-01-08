@@ -9,8 +9,8 @@
 body {
 	font-family: 'Cheeseusaceu';
 	font-size: 20px;
-	text-shadow: 0 0 6px #ff496c;
-	color: #F1E6FF;
+	text-shadow: 0 0 15px #000000;
+	color: #00FFFF;
 	background-image: url(zima.jpg);
 }
 
@@ -34,7 +34,7 @@ h2 {font-size: 24px}
 	font-size: 125%
 }
 #copyright {
-	color: #543964; 
+	color: #1E90FF; 
 	font-size: 11px; 
 	text-shadow: 0 0 0 !important
 }
