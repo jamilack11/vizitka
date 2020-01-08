@@ -1,13 +1,13 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'Cheeseusaceu';
-    src: local('cheeseusaceu'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff') format('woff');
+    font-family: 'Britannic bold';
+    src: local('britannic bold'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/cheeseusaceu/400.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 body {
-	font-family: 'Cheeseusaceu';
+	font-family: 'Britannic bold';
 	font-size: 20px;
 	text-shadow: 0 0 15px #000000;
 	color: #00FFFF;
